@@ -1,0 +1,16 @@
+io/
+joptsimple/
+net/
+org/
+oshi/
+paulscode/
+tv/
+com/
+assets/
+.files.swp
+/*.java
+license.html
+Log4j*
+pack.png
+version
+*.der
